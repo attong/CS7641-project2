@@ -38,7 +38,7 @@ import shared.writer.CSVWriter;
  * large as possible.
  * https://en.wikipedia.org/wiki/Knapsack_problem
  *
- * @author Andrew Guillory gtg008g@mail.gatech.edu
+ * @author anthony tong
  * @version 1.0
  */
 public class knapSackExperiment {
@@ -113,7 +113,7 @@ public class knapSackExperiment {
         headers[6]="SA time";
         headers[7]="GA time";
         headers[8]="MIMIC time";
-        CSVWriter writer = new CSVWriter("part1/knapsack.csv",headers);
+        CSVWriter writer = new CSVWriter("part1/knapsack3.csv",headers);
         try{
         	writer.open();
         } 
