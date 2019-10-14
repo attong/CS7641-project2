@@ -18,3 +18,5 @@ nnrhc.java - neural network optimization using randomized hill climbing
 knapSackExperiment.java - knapsack optimization problem using 4 random optimization algorithms
 continuousPeaksExperiment.java -  continuous peaks optimization problem using 4 random optimization algorithms
 travelSalesmanExperiment.java - traveling salesman optimization problem using 4 random optimization algorithms
+
+Note to TAs: Sum of squared errors was mistakenly used in place of RMSE.
